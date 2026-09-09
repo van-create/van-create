@@ -17,14 +17,14 @@
 
 Backend-разработчик на **Java / Kotlin**, 3 года коммерческого опыта. Проектирую и поддерживаю микросервисы: от REST API для IoT-устройств до систем логирования уровня банка. Люблю задачи, где нужно найти узкое место и убрать его цифрами, а не ощущениями.
 
-- 🏦 Сейчас — **Java/Kotlin backend-разработчик** в **АО «Газпромбанк»**
-- 🎓 Бакалавриат **НИУ ВШЭ** — Информатика и вычислительная техника (2023–2027), майнор — Интеллектуальный анализ данных
+- 🏦 Сейчас - **Java/Kotlin backend-разработчик** в **АО «Газпромбанк»**
+- 🎓 Бакалавриат **НИУ ВШЭ** - Информатика и вычислительная техника (2023–2027), майнор - Интеллектуальный анализ данных
 - 🌍 Москва · UTC+3 · Английский B2
 - 💬 Открыт к предложениям по Java/Kotlin backend-разработке
 
 <br>
 
-## 💼 Опыт и цифры, которые могу подтвердить
+## 💼 Опыт
 
 <table>
 <tr>
@@ -32,11 +32,11 @@ Backend-разработчик на **Java / Kotlin**, 3 года коммерч
 
 **АО «Газпромбанк»**
 *Java/Kotlin backend-разработчик*
-окт. 2025 — н.в.
+окт. 2025 - н.в.
 
-- Централизованное логирование и аудит микросервисов → **Kafka + Kibana**
+- Централизованное логирование и аудит микросервисов -> **Kafka + Kibana**
 - Стартер-библиотека интеграции с **HashiCorp Vault**, перевёл хранение секретов на неё
-- Миграция межсервисной шины **IBM MQ → ActiveMQ Artemis**
+- Миграция межсервисной шины **IBM MQ -> ActiveMQ Artemis**
 - Юнит-тесты **75%+**, поддержка legacy-сервисов на устаревших версиях Java
 
 </td>
@@ -44,10 +44,10 @@ Backend-разработчик на **Java / Kotlin**, 3 года коммерч
 
 **IT_ONE**
 *Java backend-разработчик*
-сен. 2024 — сен. 2025
+сен. 2024 - сен. 2025
 
-- Интеграция с MFlash + retry с экспоненциальной задержкой → **-80% зависших задач**
-- Микросервис проверки клиента с кэшем по ИНН (24ч) → **-33% нагрузки** на внешнюю АС
+- Интеграция с MFlash + retry с экспоненциальной задержкой -> **-80% зависших задач**
+- Микросервис проверки клиента с кэшем по ИНН (24ч) -> **-33% нагрузки** на внешнюю АС
 - Рефакторинг CRM-интеграции на чистую архитектуру
 
 </td>
@@ -55,11 +55,11 @@ Backend-разработчик на **Java / Kotlin**, 3 года коммерч
 
 **SnailLabs** (стартап)
 *Java-разработчик*
-окт. 2023 — сен. 2024
+окт. 2023 - сен. 2024
 
-- Телеметрия с ~40 устройств через **WebSocket** вместо поллинга → **в 6 раз меньше** запросов к серверу
+- Телеметрия с ~40 устройств через **WebSocket** вместо поллинга -> **в 6 раз меньше** запросов к серверу
 - Идемпотентная очередь печати + email-уведомления
-- Оптимизация истории печати → **800 мс → 120 мс**
+- Оптимизация истории печати -> **800 мс -> 120 мс**
 
 </td>
 </tr>
@@ -103,11 +103,32 @@ Backend-разработчик на **Java / Kotlin**, 3 года коммерч
 
 <div align="center">
 
-[![AI Cafe Reviews](https://github-readme-stats.vercel.app/api/pin/?username=njituew&repo=ai-cafe-reviews&theme=radical&hide_border=true)](https://github.com/njituew/ai-cafe-reviews)
-[![AI Coach Telegram Bot](https://github-readme-stats.vercel.app/api/pin/?username=njituew&repo=ai_coach_tgbot&theme=radical&hide_border=true)](https://github.com/njituew/ai_coach_tgbot)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-*AI Cafe Reviews — backend на базе AI-агентов, определяет тональность отзывов и уведомляет менеджеров о негативе.*
-*AI Coach Telegram Bot — backend Telegram-бота с AI-тренером на Mistral AI: персональные планы тренировок и питания.*
+### [AI Cafe Reviews](https://github.com/njituew/ai-cafe-reviews)
+
+Backend на базе AI-агентов: определяет тональность отзывов и уведомляет менеджеров о негативе.
+
+[![stars](https://img.shields.io/github/stars/njituew/ai-cafe-reviews?style=for-the-badge&color=ff1a1a&labelColor=0d0d0d)](https://github.com/njituew/ai-cafe-reviews/stargazers)
+![lang](https://img.shields.io/github/languages/top/njituew/ai-cafe-reviews?style=for-the-badge&color=8b0000&labelColor=0d0d0d)
+![last commit](https://img.shields.io/github/last-commit/njituew/ai-cafe-reviews?style=for-the-badge&color=8b0000&labelColor=0d0d0d)
+
+</td>
+<td width="50%" valign="top">
+
+### [AI Coach Telegram Bot](https://github.com/njituew/ai_coach_tgbot)
+
+Backend Telegram-бота с AI-тренером на Mistral AI: персональные планы тренировок и питания.
+
+[![stars](https://img.shields.io/github/stars/njituew/ai_coach_tgbot?style=for-the-badge&color=ff1a1a&labelColor=0d0d0d)](https://github.com/njituew/ai_coach_tgbot/stargazers)
+![lang](https://img.shields.io/github/languages/top/njituew/ai_coach_tgbot?style=for-the-badge&color=8b0000&labelColor=0d0d0d)
+![last commit](https://img.shields.io/github/last-commit/njituew/ai_coach_tgbot?style=for-the-badge&color=8b0000&labelColor=0d0d0d)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -117,12 +138,13 @@ Backend-разработчик на **Java / Kotlin**, 3 года коммерч
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=van-create&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=van-create&layout=compact&theme=radical&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=van-create&theme=radical" />
 
-<img src="https://streak-stats.demolab.com?user=van-create&theme=radical&hide_border=true&fire=FF1A1A&ring=FF1A1A" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=van-create&theme=radical" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=van-create&theme=radical" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=van-create&theme=radical&no-frame=true&row=1&column=7" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=van-create&theme=radical" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=van-create&theme=radical&utcOffset=3" />
 
 </div>
 
