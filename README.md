@@ -77,12 +77,20 @@
 
 <br>
 
+## 📫 Как со мной связаться
+
 <div align="center">
 
-### 📫 Как со мной связаться
-
-[![Telegram](https://img.shields.io/badge/-@not__vvaannyyaa-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/not_vvaannyyaa)
-[![Email](https://img.shields.io/badge/-elisey2016@bk.ru-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:elisey2016@bk.ru)
+<table>
+<tr>
+<td width="50%">
+<a href="https://t.me/not_vvaannyyaa"><img src="https://raw.githubusercontent.com/van-create/van-create/main/assets/contact-telegram.svg" alt="Telegram: @not_vvaannyyaa" width="100%" /></a>
+</td>
+<td width="50%">
+<a href="mailto:elisey2016@bk.ru"><img src="https://raw.githubusercontent.com/van-create/van-create/main/assets/contact-email.svg" alt="Email: elisey2016@bk.ru" width="100%" /></a>
+</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff1a1a,50:8b0000,100:0d0d0d&height=100&section=footer" />
 
