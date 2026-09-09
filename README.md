@@ -62,16 +62,8 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-<a href="https://github.com/njituew/ai-cafe-reviews"><img src="https://raw.githubusercontent.com/van-create/van-create/main/assets/project-cafe.svg" alt="AI Cafe Reviews - Telegram-бот сбора и анализа отзывов о кафе" width="100%" /></a>
-</td>
-<td width="50%">
-<a href="https://github.com/njituew/ai_coach_tgbot"><img src="https://raw.githubusercontent.com/van-create/van-create/main/assets/project-coach.svg" alt="AI Coach Telegram Bot - Telegram-бот с AI-тренером" width="100%" /></a>
-</td>
-</tr>
-</table>
+<a href="https://github.com/njituew/ai-cafe-reviews"><img src="https://raw.githubusercontent.com/van-create/van-create/main/assets/project-cafe.svg" alt="AI Cafe Reviews - Telegram-бот сбора и анализа отзывов о кафе" width="48%" /></a>
+<a href="https://github.com/njituew/ai_coach_tgbot"><img src="https://raw.githubusercontent.com/van-create/van-create/main/assets/project-coach.svg" alt="AI Coach Telegram Bot - Telegram-бот с AI-тренером" width="48%" /></a>
 
 </div>
 
@@ -81,16 +73,8 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-<a href="https://t.me/not_vvaannyyaa"><img src="https://raw.githubusercontent.com/van-create/van-create/main/assets/contact-telegram.svg" alt="Telegram: @not_vvaannyyaa" width="100%" /></a>
-</td>
-<td width="50%">
-<a href="mailto:elisey2016@bk.ru"><img src="https://raw.githubusercontent.com/van-create/van-create/main/assets/contact-email.svg" alt="Email: elisey2016@bk.ru" width="100%" /></a>
-</td>
-</tr>
-</table>
+<a href="https://t.me/not_vvaannyyaa"><img src="https://raw.githubusercontent.com/van-create/van-create/main/assets/contact-telegram.svg" alt="Telegram: @not_vvaannyyaa" width="48%" /></a>
+<a href="mailto:elisey2016@bk.ru"><img src="https://raw.githubusercontent.com/van-create/van-create/main/assets/contact-email.svg" alt="Email: elisey2016@bk.ru" width="48%" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff1a1a,50:8b0000,100:0d0d0d&height=100&section=footer" />
 
