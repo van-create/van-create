@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/van-create/van-create/main/assets/banner.svg" alt="Ivan Eliseev - Java / Kotlin Backend Developer" width="880" />
+<img src="https://raw.githubusercontent.com/van-create/van-create/main/assets/banner.svg" alt="Ivan Eliseev - Java / Kotlin Backend Developer" width="900" />
 
-<img src="https://raw.githubusercontent.com/van-create/van-create/main/assets/terminal.svg" alt="ivan@van-create: ~/profile - анимированная neofetch-карточка" width="614" />
+<img src="https://raw.githubusercontent.com/van-create/van-create/main/assets/terminal.svg" alt="ivan@van-create: ~/profile - анимированная neofetch-карточка" width="900" />
 
 </div>
 
