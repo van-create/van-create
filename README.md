@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:8b0000,100:ff1a1a&height=220&section=header&text=Ivan%20Eliseev&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Java%20/%20Kotlin%20Backend%20Developer&descAlignY=55&descSize=19" />
-
-<img src="https://raw.githubusercontent.com/van-create/van-create/main/assets/avatar.svg" alt="аватар van-create" width="170" />
+<img src="https://raw.githubusercontent.com/van-create/van-create/main/assets/banner.svg" alt="Ivan Eliseev - Java / Kotlin Backend Developer" width="880" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FF1A1A&center=true&vCenter=true&width=680&lines=Java+%2F+Kotlin+Backend+Developer;Building+reliable+microservices+since+2023;Kafka+%E2%80%A2+PostgreSQL+%E2%80%A2+Spring+Boot;Turning+legacy+systems+into+clean+architecture)](https://git.io/typing-svg)
 
