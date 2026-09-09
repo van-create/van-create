@@ -62,32 +62,8 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [AI Cafe Reviews](https://github.com/njituew/ai-cafe-reviews)
-
-Backend на базе AI-агентов: определяет тональность отзывов и уведомляет менеджеров о негативе.
-
-[![stars](https://img.shields.io/github/stars/njituew/ai-cafe-reviews?style=for-the-badge&color=ff1a1a&labelColor=0d0d0d)](https://github.com/njituew/ai-cafe-reviews/stargazers)
-![lang](https://img.shields.io/github/languages/top/njituew/ai-cafe-reviews?style=for-the-badge&color=8b0000&labelColor=0d0d0d)
-![last commit](https://img.shields.io/github/last-commit/njituew/ai-cafe-reviews?style=for-the-badge&color=8b0000&labelColor=0d0d0d)
-
-</td>
-<td width="50%" valign="top">
-
-### [AI Coach Telegram Bot](https://github.com/njituew/ai_coach_tgbot)
-
-Backend Telegram-бота с AI-тренером на Mistral AI: персональные планы тренировок и питания.
-
-[![stars](https://img.shields.io/github/stars/njituew/ai_coach_tgbot?style=for-the-badge&color=ff1a1a&labelColor=0d0d0d)](https://github.com/njituew/ai_coach_tgbot/stargazers)
-![lang](https://img.shields.io/github/languages/top/njituew/ai_coach_tgbot?style=for-the-badge&color=8b0000&labelColor=0d0d0d)
-![last commit](https://img.shields.io/github/last-commit/njituew/ai_coach_tgbot?style=for-the-badge&color=8b0000&labelColor=0d0d0d)
-
-</td>
-</tr>
-</table>
+<a href="https://github.com/njituew/ai-cafe-reviews"><img src="https://raw.githubusercontent.com/van-create/van-create/main/assets/project-cafe.svg" alt="AI Cafe Reviews - Telegram-бот сбора и анализа отзывов о кафе" width="430" /></a>
+<a href="https://github.com/njituew/ai_coach_tgbot"><img src="https://raw.githubusercontent.com/van-create/van-create/main/assets/project-coach.svg" alt="AI Coach Telegram Bot - Telegram-бот с AI-тренером" width="430" /></a>
 
 </div>
 
