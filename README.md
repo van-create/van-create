@@ -9,6 +9,8 @@
 <a href="https://github.com/van-create"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=van-create&color=e63946&style=for-the-badge&label=PROFILE%20VIEWS" />
 
+<img src="https://raw.githubusercontent.com/van-create/van-create/main/assets/terminal.svg" alt="ivan@van-create: ~/profile - анимированная neofetch-карточка" width="614" />
+
 </div>
 
 <br>
@@ -17,9 +19,7 @@
 
 Backend-разработчик на **Java / Kotlin**, 3 года коммерческого опыта. Проектирую и поддерживаю микросервисы: от REST API для IoT-устройств до систем логирования уровня банка. Люблю задачи, где нужно найти узкое место и убрать его цифрами, а не ощущениями.
 
-- 🏦 Сейчас - **Java/Kotlin backend-разработчик** в **АО «Газпромбанк»**
-- 🎓 Бакалавриат **НИУ ВШЭ** - Информатика и вычислительная техника (2023–2027), майнор - Интеллектуальный анализ данных
-- 🌍 Москва · UTC+3 · Английский B2
+- 🎓 Майнор в НИУ ВШЭ - интеллектуальный анализ данных
 - 💬 Открыт к предложениям по Java/Kotlin backend-разработке
 
 <br>
@@ -129,32 +129,6 @@ Backend Telegram-бота с AI-тренером на Mistral AI: персона
 </td>
 </tr>
 </table>
-
-</div>
-
-<br>
-
-## 📊 GitHub-статистика
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=van-create&theme=radical" />
-
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=van-create&theme=radical" />
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=van-create&theme=radical" />
-
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=van-create&theme=radical" />
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=van-create&theme=radical&utcOffset=3" />
-
-</div>
-
-<br>
-
-## 💻 whoami
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/van-create/van-create/main/assets/terminal.svg" alt="ivan@van-create: ~/profile - анимированная neofetch-карточка" width="614" />
 
 </div>
 
