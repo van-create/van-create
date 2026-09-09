@@ -150,14 +150,12 @@ Backend Telegram-бота с AI-тренером на Mistral AI: персона
 
 <br>
 
-## 🐍 Контрибьюшн-змейка
+## 💻 whoami
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/van-create/van-create/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/van-create/van-create/output/github-snake.svg" />
-  <img alt="снейк из графика контрибьюшнов" src="https://raw.githubusercontent.com/van-create/van-create/output/github-snake.svg" />
-</picture>
+
+<img src="https://raw.githubusercontent.com/van-create/van-create/main/assets/terminal.svg" alt="ivan@van-create: ~/profile - анимированная neofetch-карточка" width="614" />
+
 </div>
 
 <br>
