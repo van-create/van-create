@@ -62,8 +62,16 @@
 
 <div align="center">
 
-<a href="https://github.com/njituew/ai-cafe-reviews"><img src="https://raw.githubusercontent.com/van-create/van-create/main/assets/project-cafe.svg" alt="AI Cafe Reviews - Telegram-бот сбора и анализа отзывов о кафе" width="430" /></a>
-<a href="https://github.com/njituew/ai_coach_tgbot"><img src="https://raw.githubusercontent.com/van-create/van-create/main/assets/project-coach.svg" alt="AI Coach Telegram Bot - Telegram-бот с AI-тренером" width="430" /></a>
+<table>
+<tr>
+<td width="50%">
+<a href="https://github.com/njituew/ai-cafe-reviews"><img src="https://raw.githubusercontent.com/van-create/van-create/main/assets/project-cafe.svg" alt="AI Cafe Reviews - Telegram-бот сбора и анализа отзывов о кафе" width="100%" /></a>
+</td>
+<td width="50%">
+<a href="https://github.com/njituew/ai_coach_tgbot"><img src="https://raw.githubusercontent.com/van-create/van-create/main/assets/project-coach.svg" alt="AI Coach Telegram Bot - Telegram-бот с AI-тренером" width="100%" /></a>
+</td>
+</tr>
+</table>
 
 </div>
 
