@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f6292&height=220&section=header&text=Ivan%20Eliseev&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Java%20/%20Kotlin%20Backend%20Developer&descAlignY=55&descSize=19" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:8b0000,100:ff1a1a&height=220&section=header&text=Ivan%20Eliseev&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Java%20/%20Kotlin%20Backend%20Developer&descAlignY=55&descSize=19" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&lines=Java+%2F+Kotlin+Backend+Developer;Building+reliable+microservices+since+2023;Kafka+%E2%80%A2+PostgreSQL+%E2%80%A2+Spring+Boot;Turning+legacy+systems+into+clean+architecture)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FF1A1A&center=true&vCenter=true&width=680&lines=Java+%2F+Kotlin+Backend+Developer;Building+reliable+microservices+since+2023;Kafka+%E2%80%A2+PostgreSQL+%E2%80%A2+Spring+Boot;Turning+legacy+systems+into+clean+architecture)](https://git.io/typing-svg)
 
 <a href="https://t.me/not_vvaannyyaa"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="mailto:elisey2016@bk.ru"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/van-create"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=van-create&color=58a6ff&style=for-the-badge&label=PROFILE%20VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=van-create&color=e63946&style=for-the-badge&label=PROFILE%20VIEWS" />
 
 </div>
 
@@ -103,8 +103,8 @@ Backend-разработчик на **Java / Kotlin**, 3 года коммерч
 
 <div align="center">
 
-[![AI Cafe Reviews](https://github-readme-stats.vercel.app/api/pin/?username=njituew&repo=ai-cafe-reviews&theme=tokyonight&hide_border=true)](https://github.com/njituew/ai-cafe-reviews)
-[![AI Coach Telegram Bot](https://github-readme-stats.vercel.app/api/pin/?username=njituew&repo=ai_coach_tgbot&theme=tokyonight&hide_border=true)](https://github.com/njituew/ai_coach_tgbot)
+[![AI Cafe Reviews](https://github-readme-stats.vercel.app/api/pin/?username=njituew&repo=ai-cafe-reviews&theme=radical&hide_border=true)](https://github.com/njituew/ai-cafe-reviews)
+[![AI Coach Telegram Bot](https://github-readme-stats.vercel.app/api/pin/?username=njituew&repo=ai_coach_tgbot&theme=radical&hide_border=true)](https://github.com/njituew/ai_coach_tgbot)
 
 *AI Cafe Reviews — backend на базе AI-агентов, определяет тональность отзывов и уведомляет менеджеров о негативе.*
 *AI Coach Telegram Bot — backend Telegram-бота с AI-тренером на Mistral AI: персональные планы тренировок и питания.*
@@ -117,12 +117,12 @@ Backend-разработчик на **Java / Kotlin**, 3 года коммерч
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=van-create&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=van-create&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=van-create&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=van-create&layout=compact&theme=radical&hide_border=true" />
 
-<img src="https://streak-stats.demolab.com?user=van-create&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=van-create&theme=radical&hide_border=true&fire=FF1A1A&ring=FF1A1A" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=van-create&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=van-create&theme=radical&no-frame=true&row=1&column=7" />
 
 </div>
 
@@ -147,6 +147,6 @@ Backend-разработчик на **Java / Kotlin**, 3 года коммерч
 [![Telegram](https://img.shields.io/badge/-@not__vvaannyyaa-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/not_vvaannyyaa)
 [![Email](https://img.shields.io/badge/-elisey2016@bk.ru-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:elisey2016@bk.ru)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f6292,50:2c5364,100:0f2027&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff1a1a,50:8b0000,100:0d0d0d&height=100&section=footer" />
 
 </div>
