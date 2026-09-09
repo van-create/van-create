@@ -71,16 +71,29 @@ Backend-разработчик на **Java / Kotlin**, 3 года коммерч
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,spring,kafka,postgres,redis,hibernate,docker,maven,git,prometheus&perline=6&theme=dark" alt="Java, Kotlin, Spring, Kafka, PostgreSQL, Redis, Hibernate, Docker, Maven, Git, Prometheus" />
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
 
-![Oracle](https://img.shields.io/badge/Oracle-0d0d0d?style=flat-square&logo=oracle&logoColor=ff1a1a)
-![Liquibase](https://img.shields.io/badge/Liquibase-0d0d0d?style=flat-square&logo=liquibase&logoColor=ff1a1a)
-![ActiveMQ Artemis](https://img.shields.io/badge/ActiveMQ_Artemis-0d0d0d?style=flat-square&logo=apache&logoColor=ff1a1a)
-![HashiCorp Vault](https://img.shields.io/badge/HashiCorp_Vault-0d0d0d?style=flat-square&logo=vault&logoColor=ff1a1a)
-![TeamCity](https://img.shields.io/badge/TeamCity-0d0d0d?style=flat-square&logo=teamcity&logoColor=ff1a1a)
-![Swagger](https://img.shields.io/badge/Swagger-0d0d0d?style=flat-square&logo=swagger&logoColor=ff1a1a)
-![JUnit5](https://img.shields.io/badge/JUnit5-0d0d0d?style=flat-square&logo=junit5&logoColor=ff1a1a)
-![Mockito](https://img.shields.io/badge/Mockito-0d0d0d?style=flat-square&logo=mockito&logoColor=ff1a1a)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge&logo=liquibase&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![TeamCity](https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=teamcity&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=mockito&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![ActiveMQ](https://img.shields.io/badge/ActiveMQ_Artemis-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Vault](https://img.shields.io/badge/HashiCorp_Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
 
 </div>
 
