@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="540" viewBox="0 0 900 540" role="img" aria-label="Опыт работы: Газпромбанк, IT_ONE, SnailLabs">
+<title>Опыт работы</title>
+<defs>
+<linearGradient id="spine" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff1a1a"/><stop offset="1" stop-color="#3d0d0d"/></linearGradient>
+<linearGradient id="sparkg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff1a1a" stop-opacity="0"/><stop offset="0.5" stop-color="#ff8080" stop-opacity=".95"/><stop offset="1" stop-color="#ff1a1a" stop-opacity="0"/></linearGradient>
+<clipPath id="spineclip"><rect x="54.5" y="40" width="3" height="478.0"/></clipPath>
+</defs>
+<rect width="900" height="540" rx="14" fill="#0d0d0d" stroke="#3d0d0d"/>
+<rect x="54.5" y="40" width="3" height="478.0" fill="url(#spine)" opacity=".85"/>
+<g clip-path="url(#spineclip)"><rect id="spark" x="54.5" y="40" width="3" height="70" fill="url(#sparkg)"/></g>
+<rect x="74.0" y="40.0" width="800.0" height="152.0" rx="9" fill="#141414" opacity=".7"/>
+<circle id="nowring" cx="56.0" cy="62.0" r="9" fill="#ff1a1a" opacity=".3"/>
+<circle id="nowdot" cx="56.0" cy="62.0" r="6" fill="#ff1a1a" stroke="#0d0d0d" stroke-width="2"/>
+<text class="co" x="92.0" y="67.0" font-size="17" fill="#ffffff">АО «Газпромбанк»</text>
+<rect x="259.6" y="54.0" width="46" height="17" rx="8.5" fill="#ff1a1a" opacity=".22"/>
+<text class="mono" x="265.6" y="66.0" font-size="10.5" fill="#ff1a1a" font-weight="700">СЕЙЧАС</text>
+<text class="mono" x="864.0" y="66.0" font-size="12.5" fill="#8f8f8f" text-anchor="end">окт. 2025 - н.в.</text>
+<text class="mono" x="92.0" y="88.0" font-size="12.5" fill="#ff1a1a">Java/Kotlin backend-разработчик</text>
+<rect x="92.0" y="110.0" width="4" height="4" rx="1" fill="#ff1a1a"/>
+<text class="mono" font-size="13.0"><tspan x="106.0" y="114.0" fill="#e6e6e6">Централизованное логирование и аудит микросервисов -&gt; </tspan><tspan x="527.2" y="114.0" fill="#ff1a1a" font-weight="700">Kafka + Kibana</tspan></text>
+<rect x="92.0" y="131.0" width="4" height="4" rx="1" fill="#ff1a1a"/>
+<text class="mono" font-size="13.0"><tspan x="106.0" y="135.0" fill="#e6e6e6">Стартер-библиотека интеграции с </tspan><tspan x="355.6" y="135.0" fill="#ff1a1a" font-weight="700">HashiCorp Vault</tspan><tspan x="472.6" y="135.0" fill="#e6e6e6">, перевёл на неё хранение секретов</tspan></text>
+<rect x="92.0" y="152.0" width="4" height="4" rx="1" fill="#ff1a1a"/>
+<text class="mono" font-size="13.0"><tspan x="106.0" y="156.0" fill="#e6e6e6">Миграция межсервисной шины </tspan><tspan x="316.6" y="156.0" fill="#ff1a1a" font-weight="700">IBM MQ -&gt; ActiveMQ Artemis</tspan></text>
+<rect x="92.0" y="173.0" width="4" height="4" rx="1" fill="#ff1a1a"/>
+<text class="mono" font-size="13.0"><tspan x="106.0" y="177.0" fill="#e6e6e6">Юнит-тесты </tspan><tspan x="191.8" y="177.0" fill="#ff1a1a" font-weight="700">75%+</tspan><tspan x="223.0" y="177.0" fill="#e6e6e6">, поддержка legacy-сервисов на устаревших версиях Java</tspan></text>
+<rect x="74.0" y="214.0" width="800.0" height="131.0" rx="9" fill="#141414" opacity=".7"/>
+<circle cx="56.0" cy="236.0" r="5.5" fill="#8b0000" stroke="#0d0d0d" stroke-width="2"/>
+<text class="co" x="92.0" y="241.0" font-size="17" fill="#ffffff">IT_ONE</text>
+<text class="mono" x="864.0" y="240.0" font-size="12.5" fill="#8f8f8f" text-anchor="end">сен. 2024 - сен. 2025</text>
+<text class="mono" x="92.0" y="262.0" font-size="12.5" fill="#ff1a1a">Java backend-разработчик</text>
+<rect x="92.0" y="284.0" width="4" height="4" rx="1" fill="#ff1a1a"/>
+<text class="mono" font-size="13.0"><tspan x="106.0" y="288.0" fill="#e6e6e6">Интеграция с MFlash + retry с экспоненциальной задержкой -&gt; </tspan><tspan x="574.0" y="288.0" fill="#ff1a1a" font-weight="700">-80% зависших задач</tspan></text>
+<rect x="92.0" y="305.0" width="4" height="4" rx="1" fill="#ff1a1a"/>
+<text class="mono" font-size="13.0"><tspan x="106.0" y="309.0" fill="#e6e6e6">Микросервис проверки клиента с кэшем по ИНН (24 ч) -&gt; </tspan><tspan x="527.2" y="309.0" fill="#ff1a1a" font-weight="700">-33% нагрузки</tspan><tspan x="628.6" y="309.0" fill="#e6e6e6"> на внешнюю АС</tspan></text>
+<rect x="92.0" y="326.0" width="4" height="4" rx="1" fill="#ff1a1a"/>
+<text class="mono" font-size="13.0"><tspan x="106.0" y="330.0" fill="#e6e6e6">Рефакторинг CRM-интеграции на чистую архитектуру</tspan></text>
+<rect x="74.0" y="367.0" width="800.0" height="131.0" rx="9" fill="#141414" opacity=".7"/>
+<circle cx="56.0" cy="389.0" r="5.5" fill="#8b0000" stroke="#0d0d0d" stroke-width="2"/>
+<text class="co" x="92.0" y="394.0" font-size="17" fill="#ffffff">SnailLabs</text>
+<text class="mono" x="864.0" y="393.0" font-size="12.5" fill="#8f8f8f" text-anchor="end">окт. 2023 - сен. 2024</text>
+<text class="mono" x="92.0" y="415.0" font-size="12.5" fill="#ff1a1a">Java-разработчик, стартап</text>
+<rect x="92.0" y="437.0" width="4" height="4" rx="1" fill="#ff1a1a"/>
+<text class="mono" font-size="13.0"><tspan x="106.0" y="441.0" fill="#e6e6e6">Телеметрия с ~40 устройств через WebSocket вместо поллинга -&gt; </tspan><tspan x="589.6" y="441.0" fill="#ff1a1a" font-weight="700">в 6 раз меньше</tspan><tspan x="698.8" y="441.0" fill="#e6e6e6"> запросов</tspan></text>
+<rect x="92.0" y="458.0" width="4" height="4" rx="1" fill="#ff1a1a"/>
+<text class="mono" font-size="13.0"><tspan x="106.0" y="462.0" fill="#e6e6e6">Идемпотентная очередь печати + email-уведомления</tspan></text>
+<rect x="92.0" y="479.0" width="4" height="4" rx="1" fill="#ff1a1a"/>
+<text class="mono" font-size="13.0"><tspan x="106.0" y="483.0" fill="#e6e6e6">Оптимизация истории печати -&gt; </tspan><tspan x="340.0" y="483.0" fill="#ff1a1a" font-weight="700">800 мс -&gt; 120 мс</tspan></text>
+<style>
+@keyframes pulse{0%,100%{opacity:.15;r:9}50%{opacity:.5;r:15}}
+@keyframes dot{0%,100%{opacity:1}50%{opacity:.45}}
+@keyframes fall{0%{transform:translateY(-70px)}100%{transform:translateY(478px)}}
+#nowring{animation:pulse 2.4s ease-in-out infinite}
+#nowdot{animation:dot 2.4s ease-in-out infinite}
+#spark{animation:fall 6s linear infinite}
+.co{font-family:"Segoe UI",Roboto,Helvetica,Arial,system-ui,sans-serif;font-weight:700}
+.mono{font-family:"JetBrains Mono","Fira Code",ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+</style>
+</svg>
