@@ -2,13 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/van-create/van-create/main/assets/banner.svg" alt="Ivan Eliseev - Java / Kotlin Backend Developer" width="880" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FF1A1A&center=true&vCenter=true&width=680&lines=Java+%2F+Kotlin+Backend+Developer;Building+reliable+microservices+since+2023;Kafka+%E2%80%A2+PostgreSQL+%E2%80%A2+Spring+Boot;Turning+legacy+systems+into+clean+architecture)](https://git.io/typing-svg)
-
-<a href="https://t.me/not_vvaannyyaa"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="mailto:elisey2016@bk.ru"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/van-create"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=van-create&color=e63946&style=for-the-badge&label=PROFILE%20VIEWS" />
-
 <img src="https://raw.githubusercontent.com/van-create/van-create/main/assets/terminal.svg" alt="ivan@van-create: ~/profile - анимированная neofetch-карточка" width="614" />
 
 </div>
